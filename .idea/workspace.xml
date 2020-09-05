@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f21660d6-b689-4512-a106-7d1844e2081a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/simpleVerdicts" />
+  </component>
+  <component name="ProjectId" id="1XZQ2sbhSzDGeYOIRXrSmPLefGG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Tensorflow\Pycharm\1\verdicts\template" />
+      <recent name="D:\Tensorflow\Pycharm\1\data2text" />
+      <recent name="D:\Tensorflow\Pycharm\1" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Tensorflow\Pycharm\1\data2text" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.extract (1)">
+    <configuration name="extract (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/criminal" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/criminal/extract.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="extract" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/verdicts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/verdicts/extract.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="similarity" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/verdicts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/verdicts/similarity.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="temp" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/temp.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="text_generation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/verdicts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/verdicts/text_generation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.extract (1)" />
+        <item itemvalue="Python.temp" />
+        <item itemvalue="Python.extract" />
+        <item itemvalue="Python.similarity" />
+        <item itemvalue="Python.text_generation" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f21660d6-b689-4512-a106-7d1844e2081a" name="Default Changelist" comment="" />
+      <created>1581250932867</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581250932867</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="225" y="0" key="#Inspections" timestamp="1597378138945">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="225" y="0" key="#Inspections/0.0.1280.720@0.0.1280.720" timestamp="1597378138945" />
+    <state x="409" y="204" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1594628571900">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="409" y="204" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.720@0.0.1280.720" timestamp="1594628571900" />
+    <state x="119" y="164" width="438" height="492" key="FileChooserDialogImpl" timestamp="1598445355111">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="119" y="164" key="FileChooserDialogImpl/0.0.1280.689@0.0.1280.689" timestamp="1598445355111" />
+    <state x="119" y="171" width="438" height="492" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1598253583605" />
+    <state width="1281" height="200" key="GridCell.Tab.0.bottom" timestamp="1599228582672">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1281" height="200" key="GridCell.Tab.0.bottom/0.0.1280.689@0.0.1280.689" timestamp="1599228582672" />
+    <state width="1281" height="150" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1598253277355" />
+    <state width="1281" height="200" key="GridCell.Tab.0.center" timestamp="1599228582672">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1281" height="200" key="GridCell.Tab.0.center/0.0.1280.689@0.0.1280.689" timestamp="1599228582672" />
+    <state width="1281" height="150" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1598253277355" />
+    <state width="1281" height="200" key="GridCell.Tab.0.left" timestamp="1599228582672">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1281" height="200" key="GridCell.Tab.0.left/0.0.1280.689@0.0.1280.689" timestamp="1599228582672" />
+    <state width="1281" height="150" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1598253277355" />
+    <state width="1281" height="200" key="GridCell.Tab.0.right" timestamp="1599228582672">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1281" height="200" key="GridCell.Tab.0.right/0.0.1280.689@0.0.1280.689" timestamp="1599228582672" />
+    <state width="1281" height="150" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1598253277355" />
+    <state width="1281" height="170" key="GridCell.Tab.1.bottom" timestamp="1598541810859">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1281" height="170" key="GridCell.Tab.1.bottom/0.0.1280.689@0.0.1280.689" timestamp="1598541810859" />
+    <state width="1281" height="257" key="GridCell.Tab.1.bottom/0.0.1280.720@0.0.1280.720" timestamp="1597935951137" />
+    <state width="1281" height="170" key="GridCell.Tab.1.center" timestamp="1598541810859">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1281" height="170" key="GridCell.Tab.1.center/0.0.1280.689@0.0.1280.689" timestamp="1598541810859" />
+    <state width="1281" height="257" key="GridCell.Tab.1.center/0.0.1280.720@0.0.1280.720" timestamp="1597935951136" />
+    <state width="1281" height="170" key="GridCell.Tab.1.left" timestamp="1598541810859">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1281" height="170" key="GridCell.Tab.1.left/0.0.1280.689@0.0.1280.689" timestamp="1598541810859" />
+    <state width="1281" height="257" key="GridCell.Tab.1.left/0.0.1280.720@0.0.1280.720" timestamp="1597935951136" />
+    <state width="1281" height="170" key="GridCell.Tab.1.right" timestamp="1598541810859">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1281" height="170" key="GridCell.Tab.1.right/0.0.1280.689@0.0.1280.689" timestamp="1598541810859" />
+    <state width="1281" height="257" key="GridCell.Tab.1.right/0.0.1280.720@0.0.1280.720" timestamp="1597935951136" />
+    <state x="26" y="5" key="SettingsEditor" timestamp="1597380073595">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="26" y="5" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1597380073595" />
+    <state x="0" y="0" width="1050" height="698" key="dock-window-1" timestamp="1598666447452">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="0" y="0" width="1050" height="698" key="dock-window-1/0.0.1280.689@0.0.1280.689" timestamp="1598666447452" />
+    <state x="238" y="27" key="scopes" timestamp="1597465139744">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="238" y="27" key="scopes/0.0.1280.720@0.0.1280.720" timestamp="1597465139744" />
+    <state x="315" y="39" width="672" height="649" key="search.everywhere.popup" timestamp="1598604566542">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="315" y="39" width="672" height="649" key="search.everywhere.popup/0.0.1280.689@0.0.1280.689" timestamp="1598604566542" />
+    <state x="315" y="41" width="672" height="678" key="search.everywhere.popup/0.0.1280.720@0.0.1280.720" timestamp="1598255224990" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/data2text/rank_model.py</url>
+          <line>53</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/data2text/rank_model.py</url>
+          <line>66</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
